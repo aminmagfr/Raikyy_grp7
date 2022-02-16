@@ -1,0 +1,37 @@
+﻿<!doctype html>
+<html lang="fr">
+	<head>
+        <link href="style-martin.css" rel="stylesheet">
+		<meta charset="utf-8">
+		<title>Les types d’objets connectés</title>
+	</head>
+	<a href="Objets Connectés.html">Accueil</a>
+	<body>
+		<h1>Qu'est ce qu'un objet connecté ?</h1>
+		<p>
+				Les <strong>objets connectés</strong> sont des appareils reliés à Internet par un protocole de communication pour informer l'utilisateur de leur état. Ils sont présents dans l'ensemble des secteurs.	 
+		</p>
+                
+                <h1>Les types d'objet connectés :</h1>
+                <p>
+				<U><strong>les objets connectés à la maison :</strong></U>
+				Les <strong>objets connectés</strong> a la maison sont des objets du quotidien comme le chauffage, les calméras de surveillance, le frigo, les volets, le téléphone, l'ordinateur....
+                </p>
+                
+                <h1></h1>
+	             <p>
+				 <U><strong>Les objets connectés dans les loisirs :</strong></U>
+				 Les loisirs profitent aussi des <strong>objets connectés</strong> et deviennent des loisirs connectés qui nous facilitent la vie ; nous pouvons y retrouver les drones ; les jouets ainsi que les voyage connectés qui facilitent les départs en vacances et sécurisent le transport grâce à des valises de haute sécurité comme la Blue Smart qui permet aux voyageurs de pouvoir retrouver leur valise à l’aide de leur téléphone portable.
+				  </p>
+                
+                <h1></h1>
+	             <p>
+				 <U><strong>les objets connectés avec les animaux :</strong></U>
+				 De nombreux <strong>objets connectés</strong> existent pour rester en contact avec les animaux lors de déplacement.Il existe aussi des jeux connectés, équipés de trois touches tactiles afin d’occuper les animaux la journée.
+				 
+	             <p>
+		     </ul>
+<img src="https://blog.mobilboard.com/wp-content/uploads/2016/07/2160.jpg" alt="Image" style="width:600px;height:300px" >
+      	</body>
+	
+</html>

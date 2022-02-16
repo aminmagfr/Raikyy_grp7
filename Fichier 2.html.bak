@@ -1,0 +1,42 @@
+﻿<!doctype html>
+<html lang="fr">
+	<head>
+	<link href="style-leo.css" rel="stylesheet">
+		<meta charset="utf-8">
+		<title>Les Donnees personelles</title>
+	</head>
+	<a href="Objets Connectés.html">Accueil</a>
+	<body>
+                <h1>Que sont les données personnelles et comment sont elles collectées ?</h1>
+                <p>
+                    Une donnée personnelle est toute information se rapportant a une personne physique identifiée ou identifiable.
+					
+                </p>
+                <p>
+                    <strong>Les données personnelles</strong> sont collectées par l'utilisation de traceurs, de petits fichiers qui enregistrent et communiquent des informations 
+					relatives aux pages vues et aux recherches effectuées. C'est pour cela que les internautes se retrouvent si souvent confrontée
+					à de la publicité ciblée lorsqu'ils reviennent sur un site.
+                </p>
+                <h1>Quels sont les sites qui collecte nos données personnelles ?</h1>
+				</p>
+				<p>
+				
+					Les sites qui collecte le plus de données personnelles sont : <strong>Instagram</strong> avec <strong>79%</strong>, 
+					<strong>Facebook</strong> avec <strong>57%</strong>, <strong>Linkedin</strong> avec <strong>50%</strong>, 
+					<strong>UberEat</strong> avec <strong>50%</strong>, <strong>Deliveroo</strong> avec <strong>36%</strong> et <strong>TikTok</strong> 
+					avec <strong>36%</strong>					
+				</p>
+				<h1>Exemple de données personelles</h1>
+				</p>
+				<p>
+				
+					Il y a <strong>2 types</strong> de données personnelles : les données personnelles <strong>directe</strong> qui sont : 
+					le nom et le prenom de la personne. L'autre type de données personnelles sont les données personnelles <strong>indirecte</strong>
+					<strong>Exemple : </strong>par un numero de telephone ou de plaque d'immatriculation, un identifiant tel que le numero de securité sociale, 
+					une adresse postale ou courriel, mais aussi la voix ou l'image.
+				</p>
+				<img src="24497.jpeg">
+			 </ul>
+      	</body>
+
+</html>

@@ -1,0 +1,50 @@
+h1{
+font-size : 25px;
+font-family : "Tahoma";
+color : blue;
+background-color:beige;
+}
+
+h2{
+font-size : 35px;
+color : red;
+font-family : "Aharoni";
+background-color:black;
+}
+body
+{
+background-image: url("objet-conneqcte.jpeg");
+Background-position:top
+}
+li{
+font-size : 26px;
+color:black;
+
+}
+h3
+{
+font-size : 22px;
+color :blue;
+font-family : "Aharoni";
+background-color:#e02e44;
+;
+}
+ul1
+{
+font-size : 22px;
+color :black;
+font-family : "Aharoni";
+background-color:#e02e44;
+}
+h5
+{
+Background-position:bottom right; 
+Background-repeat: no-repeat;
+}
+
+
+
+ 
+
+
+
